@@ -1,4 +1,4 @@
-from frosty import Frosty
+from frosty_ai import Frosty
 import os
 from dotenv import load_dotenv
 
