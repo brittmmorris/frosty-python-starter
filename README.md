@@ -5,10 +5,10 @@ A minimal example app using the Frosty AI Python SDK to route prompts via `frost
 ## 🔧 Setup
 
 1. Clone the repo
-    ```bash
-    git clone https://github.com/brittmmorris/frosty-python-starter
-    cd frosty-python-starter
-    ```
+  ```bash
+  git clone https://github.com/brittmmorris/frosty-python-starter
+  cd frosty-python-starter
+  ```
 2. Create a `.env` file from `.env.example`  
 3. Create and activate a virtual environment:
 
